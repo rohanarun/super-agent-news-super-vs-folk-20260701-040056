@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[theeditorial.news](https://theeditorial.news/ai-agents/anthropic-computer-use-vs-openai-operator-vs-google-mariner-72-task-completion-on-osworld-but-on-mqi0zmi8)",
+    "[rohitraj.tech](https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)",
+    "[ndtvprofit.com](https://www.ndtvprofit.com/technology/six-in-10-indians-want-personal-ai-agents-highest-in-asia-pacific-report-finds)",
+    "[expresscomputer.in](https://www.expresscomputer.in/artificial-intelligence/how-autonomous-ai-agents-could-become-the-new-enterprise-workplace/)"
+  ],
+  "design_plan": "rng=42; AIDA_pass=true; hero_lines=2.4; bento_density=grid-auto-flow:dense verified; competitors_label_sweep=Folk,Orchids,Siri,ChatGPT,Gemini,Grok; button_contrast=pass",
+  "generated_at": "2026-07-01T04:01:03.148314+00:00",
+  "headline": "Super vs Folk \u2014 personal AI agents compared",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "Folk is part of the broader wave of AI tools and automation experiments, while Super is purpose\u2011built for people who want a personal AI agent that actually operates a computer and gets cheaper and faster over time thanks to a reusable computer\u2011use cache. This page compares where Folk fits, how the market is evolving, and why Super is the sharper choice for repeated computer\u2011use workflows."
+}
